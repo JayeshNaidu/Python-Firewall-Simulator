@@ -28,4 +28,4 @@ Takes an IP address and a dictionary of firewall rules. If the IP matches a bloc
 
 ## Example Output
 
-![Output](./img/Screenshot (107))
+![Output](./img/Screenshot%20(107).png)
