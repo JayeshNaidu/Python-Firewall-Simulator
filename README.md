@@ -1,6 +1,6 @@
 # Python Firewall Simulator
 
-This is a simple Python script that simulates basic firewall functionality by generating random IP addresses and checking them against predefined firewall rules.
+This is a Python script that simulates firewall functionality by generating random IP addresses and checking them against predefined firewall rules.
 
 ## Features
 
